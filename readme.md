@@ -6,4 +6,4 @@
 line and change the v4 to whatever version your display is, if you have another display im not 100% sure how to help
 have fun and happy pwning
 
-* this file is for educational purposes only any actions taken by users of this file are acting alone and understand the choices they are making I AM NOT RESPONSIBLE FOR THEIR ACTIONS 
+_this file is for educational purposes only any actions taken by users of this file are acting alone and understand the choices they are making I AM NOT RESPONSIBLE FOR THEIR ACTIONS _
