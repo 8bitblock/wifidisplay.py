@@ -1,6 +1,6 @@
 # ORIGINAL FILE MADE BY V0rT3x
 ## this is a remake of the original file by V0rT3x I have used chat gpt to assist with some coding
-## its recomended to have wpa-sec-list so that the polugins knows where to look for the ssids and passwords
+## its recomended to have wpa-sec-list so that the plugins knows where to look for the ssids and passwords
 
 if its not working on your display check the line: 
  def get_position(self, ui):
