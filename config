@@ -1,0 +1,9 @@
+main.plugins.WifiDisplay.enabled = true
+main.plugins.WifiDisplay.orientation = "horizontal"
+main.plugins.WifiDisplay.files = [
+ "/root/handshakes/wpa-sec.cracked.potfile",
+ "/root/handshakes/my.potfile",
+ "/root/handshakes/OnlineHashCrack.cracked",
+]
+main.plugins.WifiDisplay.saving_path = "/root/handshakes/WifiDisplay.potfile"
+main.plugins.WifiDisplay.display_stats = true
