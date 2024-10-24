@@ -7,3 +7,4 @@ main.plugins.WifiDisplay.files = [
 ]
 main.plugins.WifiDisplay.saving_path = "/root/handshakes/WifiDisplay.potfile"
 main.plugins.WifiDisplay.display_stats = true
+main.plugins.WifiDisplay.position = (0, 70)
